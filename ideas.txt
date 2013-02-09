@@ -1,0 +1,44 @@
+# Ideas
+
+Drag racing
+	Specify car stats
+	Race the cars
+	Obstacle terrain
+		Car powerups
+			Flipper upper
+			Parachute
+
+	Speed based on crowd volume
+
+Battleships
+	Players write a heuristic which is simulated
+	Heuristic for ship placement
+	Heuristic for finding opponent's ships
+	Responding to game state via REST
+
+Pokemon Battle
+	
+
+Poker/Blackjack
+	Transmit flop, turn, river
+	Wait for response
+
+Simple AOE
+	Bunch of units on a grid
+	Rules for actions for units
+	Multiple unit types
+	Reacting to senses
+	Pop cap
+
+Risk
+	Points to spend per turn
+	Sent a list of territories
+	Multiple actions each turn (build/attack etc)
+	Earning money by looting/mining/etc
+	Time limited/turn limited
+
+Stock Market
+	Buy/sell simulator
+	Get sent trends
+	Decide buy/sell
+	Winner is last to go bankrupt/first to get a certain amount
